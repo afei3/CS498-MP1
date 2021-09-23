@@ -1679,3 +1679,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.23-16.22.18:656][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.23-16.22.18:678][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
 [2021.09.23-16.22.18:703][948]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.09.23-16.23.48:658][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/Health_Pack.Health_Pack
+[2021.09.23-16.24.05:661][799]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/Health_PackSpawner.Health_PackSpawner
+[2021.09.23-16.24.51:937][487]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Hud107664E1405F4FBEE2745CBFFAF75F65.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Hud.uasset'
+[2021.09.23-16.24.51:962][487]AssetCheck: New page: Asset Save: BP_Hud
+[2021.09.23-16.24.51:962][487]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Hud.BP_Hud
+[2021.09.23-16.24.52:272][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.09.23-16.24.52:287][502]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap984783004FFA0F2B080AF88E7067A121.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.23-16.24.52:311][502]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-16.24.52:311][502]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.23-16.24.52:311][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2021.09.23-16.24.52:573][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.09.23-16.24.52:585][515]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap75F3EC1A46A2A12EC6E197A6DFCE69C6.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.23-16.24.52:607][515]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-16.24.52:607][515]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.23-16.24.52:608][515]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2021.09.23-16.24.53:339][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.23-16.24.53:353][557]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMapC359311F46B527502A43FF89CA296A7B.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.23-16.24.53:379][557]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-16.24.53:379][557]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.23-16.24.53:379][557]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2021.09.23-16.24.53:655][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.09.23-16.24.53:666][571]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMapB3B1C56B410FDBBDD58B58B84C2FEBE8.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.23-16.24.53:689][571]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-16.24.53:689][571]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.23-16.24.53:689][571]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2021.09.23-16.24.53:859][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.23-16.24.53:876][579]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap05CF50334EBBA7E4C055F6BBAAAF34D9.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.23-16.24.53:903][579]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-16.24.53:903][579]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.23-16.24.53:903][579]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
