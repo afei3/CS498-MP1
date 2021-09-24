@@ -2016,3 +2016,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.24-06.51.31:743][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.24-06.51.31:758][204]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
 [2021.09.24-06.51.31:830][205]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.09.24-06.54.03:442][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.09.24-06.54.03:456][776]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap_Auto2A81BE8DF4F07398F7435F590CB18CB04.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto2.umap'
+[2021.09.24-06.54.03:458][776]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.047
+[2021.09.24-06.54.03:458][776]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.09.24-06.54.03:459][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/Health_Pack] ([2] browsable assets)...
+[2021.09.24-06.54.03:476][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/Health_Pack.Health_Pack]
+[2021.09.24-06.54.03:476][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/Health_Pack]
+[2021.09.24-06.54.03:506][776]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Health_Pack_Auto29A20A9B847C7E5F9F873C0A30A7FD7A6.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/Health_Pack_Auto2.uasset'
+[2021.09.24-06.54.03:508][776]LogFileHelpers: Auto-saving content packages took 0.050
+[2021.09.24-06.54.09:826][875]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Health_PackB374ED26403A292A1FE71696FC073E35.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/Health_Pack.uasset'
+[2021.09.24-06.54.09:847][875]AssetCheck: New page: Asset Save: Health_Pack
+[2021.09.24-06.54.09:847][875]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/Health_Pack.Health_Pack
