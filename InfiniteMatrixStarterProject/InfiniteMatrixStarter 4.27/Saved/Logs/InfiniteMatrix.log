@@ -3349,3 +3349,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.26-07.07.25:660][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.26-07.07.25:669][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
 [2021.09.26-07.07.25:697][549]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.09.26-07.07.53:864][759]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Enemy80F5C0E042B6F5286E6752B9DA305543.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset'
+[2021.09.26-07.07.53:880][759]AssetCheck: New page: Asset Save: BP_Enemy
+[2021.09.26-07.07.53:880][759]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy
+[2021.09.26-07.07.55:469][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.09.26-07.07.55:483][845]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap05B5A164437A88274657BA804C756350.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.26-07.07.55:509][845]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-07.07.55:509][845]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.26-07.07.55:509][845]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
