@@ -1363,3 +1363,239 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.26-00.24.14:908][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.26-00.24.14:916][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
 [2021.09.26-00.24.14:940][102]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.09.26-00.25.55:378][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.09.26-00.25.55:392][614]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap8D56129F47136DDC5A4446A43A6EDA1E.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.26-00.25.55:415][614]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.26-00.25.55:415][614]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.26-00.25.55:415][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2021.09.26-00.25.58:180][776]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Health_PackB475FD004A58024DE50E32954DFB6862.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/Health_Pack.uasset'
+[2021.09.26-00.25.58:231][776]AssetCheck: New page: Asset Save: Health_Pack
+[2021.09.26-00.25.58:231][776]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/Health_Pack.Health_Pack
+[2021.09.26-00.26.02:260][992]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.26-00.26.02:267][992]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.26-00.26.02:275][992]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.26.02:275][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.26.02:346][992]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.26-00.26.02:346][992]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.26.02:346][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.26.02:414][992]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.26-00.26.02:414][992]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.26.02:414][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.26.02:476][992]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.26-00.26.02:476][992]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.26.02:476][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.26.02:536][992]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.26-00.26.02:536][992]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.26.02:536][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.26.02:593][992]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.26-00.26.02:593][992]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.26.02:593][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.26.14:045][669]LogActorFactory: Actor Factory created Sphere
+[2021.09.26-00.26.14:508][697]LogActorFactory: Actor Factory created Sphere
+[2021.09.26-00.26.20:785][ 74]Cmd: DELETE
+[2021.09.26-00.26.20:786][ 74]Cmd: ACTOR DELETE
+[2021.09.26-00.26.20:787][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.26-00.26.20:853][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.09.26-00.26.20:858][ 74]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.09.26-00.26.27:480][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Projectile.BP_Projectile
+[2021.09.26-00.26.56:336][ 92]BlueprintLog: New page: Compile BP_Projectile
+[2021.09.26-00.26.56:418][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.09.26-00.26.56:838][100]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Projectile8FC741D84EEA7BC4ADC075AF52347733.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset'
+[2021.09.26-00.26.56:861][100]AssetCheck: New page: Asset Save: BP_Projectile
+[2021.09.26-00.26.56:861][100]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Projectile.BP_Projectile
+[2021.09.26-00.26.59:791][259]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.09.26-00.26.59:813][259]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.09.26-00.26.59:816][259]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.26.59:816][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.27.16:955][284]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.09.26-00.27.23:087][649]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2021.09.26-00.27.24:135][712]Cmd: DELETE
+[2021.09.26-00.27.24:135][712]Cmd: ACTOR DELETE
+[2021.09.26-00.27.24:138][712]LogEditorActor: Deleted Actor: Brush
+[2021.09.26-00.27.24:164][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.09.26-00.27.24:170][712]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.09.26-00.29.07:665][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Projectile.BP_Projectile
+[2021.09.26-00.29.09:992][319]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.09.26-00.29.10:029][319]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.09.26-00.29.10:033][319]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.29.10:033][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.29.15:788][663]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Actors/StaticMeshActorindex.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2021.09.26-00.30.19:661][ 59]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.09.26-00.30.19:672][ 59]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.09.26-00.30.22:602][222]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2021.09.26-00.30.22:606][222]LogContentBrowser: End creating deferred item NewMaterial
+[2021.09.26-00.30.22:828][234]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/InfiniteMatrix/Meshes/NewMaterial.NewMaterial
+[2021.09.26-00.30.22:831][234]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 83F4AA5FE05AC62C04B0A91CF57C0042125F2A19), compiling. 
+[2021.09.26-00.30.22:867][234]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.22:912][234]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.09.26-00.30.23:153][234]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6FE0FFEC501F1E2A8A2F707FA59F2AE5F5F78E00), compiling. 
+[2021.09.26-00.30.23:159][234]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8F38D8DB6350D0E8AE60C0D7B26B6CE759215907), compiling. 
+[2021.09.26-00.30.23:176][234]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.26-00.30.23:341][235]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.24:675][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.26-00.30.24:675][300]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.24:681][300]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.26-00.30.24:681][300]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2021.09.26-00.30.24:681][300]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.09.26-00.30.24:681][300]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.09.26-00.30.24:681][300]LogShaderCompilers: Display: ================================================
+[2021.09.26-00.30.25:008][315]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-00.30.25:008][315]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.25:011][315]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-00.30.26:991][407]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.26-00.30.26:991][407]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.26-00.30.26:991][407]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.26-00.30.26:991][407]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-00.30.34:807][878]LogSlate: Window 'NewMaterial' being destroyed
+[2021.09.26-00.30.34:839][878]LogSlate: Window 'NewMaterial' being destroyed
+[2021.09.26-00.30.34:847][878]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.30.34:847][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.30.48:571][691]LogContentBrowser: Attempting asset rename: NewMaterial -> SM_Projectile
+[2021.09.26-00.30.48:662][691]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/SM_Projectile73A5283F40660BBC94C6F1914BDC5D13.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Meshes/SM_Projectile.uasset'
+[2021.09.26-00.30.48:748][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.09.26-00.30.48:785][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.09.26-00.30.48:804][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.09.26-00.30.48:844][691]AssetCheck: New page: Asset Save: SM_Projectile
+[2021.09.26-00.30.48:844][691]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Meshes/SM_Projectile.SM_Projectile
+[2021.09.26-00.30.50:293][761]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/InfiniteMatrix/Meshes/SM_Projectile.SM_Projectile
+[2021.09.26-00.30.50:294][761]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: 5B5413F0D48E2099C411F41F647A9C026CCE97AA), compiling. 
+[2021.09.26-00.30.50:305][761]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.50:462][761]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: 51A02F91116EB9A0EC77012D83975932BE18495D), compiling. 
+[2021.09.26-00.30.50:465][761]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: BA406B83680F79EB2E409B0CC70C3476DD07FD7D), compiling. 
+[2021.09.26-00.30.50:478][761]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-00.30.50:585][762]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-00.30.50:585][762]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.26-00.30.50:585][762]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.26-00.30.50:585][762]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-00.30.50:585][762]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.50:586][762]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.26-00.30.50:586][762]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.26-00.30.50:586][762]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.51:913][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.26-00.30.51:913][818]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.52:261][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-00.30.52:261][836]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-00.30.52:283][837]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-00.30.59:089][226]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: 59B91F7359A78A75F8DCC967927B4BB0B5E6249E), compiling. 
+[2021.09.26-00.30.59:091][226]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 483D005854B89608F8BD8D65B5B9EF0A27D5F1D9), compiling. 
+[2021.09.26-00.30.59:094][226]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: 1DAA450AE18F0D9AB2513B25C0E9FFF042CD65B1), compiling. 
+[2021.09.26-00.30.59:095][226]LogMaterial: Warning: [AssetLog] /Engine/Transient.SM_Projectile (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-00.30.59:095][226]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-00.30.59:095][226]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C25D592309F6589DBFC2C4440F55FF0B9704B25), compiling. 
+[2021.09.26-00.30.59:100][226]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-00.31.09:237][832]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: 96E08E1F021AACFD34C34B294CB3DF0845219A6C), compiling. 
+[2021.09.26-00.31.09:239][832]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-00.31.09:291][834]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.26-00.31.09:292][834]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.26-00.31.09:292][834]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.26-00.31.09:292][834]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-00.31.17:185][307]LogMaterialEditor: Saving and Compiling material SM_Projectile
+[2021.09.26-00.31.17:583][307]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: 31530B2C3CE36B8D4D6E285EB423C4A80BA85FC6), compiling. 
+[2021.09.26-00.31.17:619][307]LogMaterial: Display: Missing cached shadermap for SM_Projectile in PCD3D_SM5, Default, SM5 (DDC key hash: AE115F97811C5970B6BBC711FF4A448EC9852F6A), compiling. 
+[2021.09.26-00.31.17:674][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.09.26-00.31.17:681][307]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-00.31.18:113][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-00.31.18:113][307]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-00.31.18:113][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.09.26-00.31.18:191][307]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2021.09.26-00.31.18:191][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.09.26-00.31.18:191][307]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.09.26-00.31.18:191][307]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.09.26-00.31.18:191][307]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-00.31.18:242][307]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/SM_ProjectileE44B49854FAB4821D79219B54A790F9F.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Meshes/SM_Projectile.uasset'
+[2021.09.26-00.31.18:257][307]AssetCheck: New page: Asset Save: SM_Projectile
+[2021.09.26-00.31.18:257][307]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Meshes/SM_Projectile.SM_Projectile
+[2021.09.26-00.31.18:266][307]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-00.31.19:958][399]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.26-00.31.19:959][399]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.26-00.31.19:959][399]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.26-00.31.19:959][399]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.26-00.31.38:073][486]LogSlate: Window 'SM_Projectile' being destroyed
+[2021.09.26-00.31.38:106][486]LogSlate: Window 'SM_Projectile' being destroyed
+[2021.09.26-00.31.38:117][486]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.31.38:117][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.31.44:229][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.09.26-00.31.46:003][833]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.26-00.31.46:095][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.09.26-00.31.46:125][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.09.26-00.31.46:143][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.26-00.32.50:113][625]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_04.SM_Hole_04
+[2021.09.26-00.32.50:867][626]LogRenderer: Reallocating scene render targets to support 1424x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.09.26-00.32.56:790][947]LogSlate: Window 'SM_Hole_04' being destroyed
+[2021.09.26-00.32.56:821][947]LogSlate: Window 'SM_Hole_04' being destroyed
+[2021.09.26-00.32.56:827][947]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.32.56:827][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.34.53:678][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.26-00.34.58:423][577]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.26-00.34.58:459][577]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.26-00.34.58:462][577]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.34.58:462][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.35.05:292][969]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.26-00.36.24:618][550]BlueprintLog: New page: Compile BP_Tunnel
+[2021.09.26-00.36.24:773][550]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.09.26-00.36.25:410][568]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Tunnel6284975547D4BD4423EFEE9597EE50C6.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2021.09.26-00.36.25:434][568]AssetCheck: New page: Asset Save: BP_Tunnel
+[2021.09.26-00.36.25:434][568]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2021.09.26-00.36.26:384][625]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.26-00.36.26:399][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.26-00.36.26:399][625]PIE: New page: PIE session: TutorialMap (Sep 25, 2021, 2:36:26 PM)
+[2021.09.26-00.36.26:399][625]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-00.36.26:402][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002690s)
+[2021.09.26-00.36.26:403][625]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.26-00.36.26:404][625]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2021.09.26-00.36.26:404][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004855s)
+[2021.09.26-00.36.26:465][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.09.26-00.36.26:465][625]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.09.26-00.36.26:465][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.26-00.36.26:465][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.26-00.36.26:465][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.26-00.36.26:465][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.26-00.36.26:465][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.26-00.36.26:465][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.26-00.36.26:465][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.26-00.36.26:466][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.26-00.36.26:466][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.26-00.36.26:466][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.26-00.36.26:466][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.26-00.36.26:466][625]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.26-00.36.26:472][625]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.26-00.36.26:472][625]LogAudioMixer: Display: 1: FrontRight
+[2021.09.26-00.36.26:491][625]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2021.09.26-00.36.26:491][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.26-00.36.26:491][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.26-00.36.26:491][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.26-00.36.26:492][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.26-00.36.26:492][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.26-00.36.26:492][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.26-00.36.26:493][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.26-00.36.26:493][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.26-00.36.26:493][625]LogInit: FAudioDevice initialized.
+[2021.09.26-00.36.26:493][625]LogAudio: Display: Audio Device (ID: 9) registered with world 'TutorialMap'.
+[2021.09.26-00.36.26:543][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-00.36.26:543][625]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.26-00.36.26:544][625]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.25-19.36.26
+[2021.09.26-00.36.26:544][625]LogWorld: Bringing up level for play took: 0.000618
+[2021.09.26-00.36.26:545][625]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.09.26-00.36.26:556][625]PIE: Server logged in
+[2021.09.26-00.36.26:558][625]PIE: Play in editor total start time 0.167 seconds.
+[2021.09.26-00.36.33:719][ 42]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.26-00.36.33:719][ 42]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.26-00.36.35:760][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-00.36.35:760][160]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-00.36.35:760][160]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.26-00.36.35:783][160]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-00.36.35:784][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.36.35:796][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.26-00.36.35:801][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-00.36.35:828][160]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.26-00.36.35:828][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-00.36.35:829][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-00.36.35:838][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.09.26-00.36.35:864][161]LogPlayLevel: Display: Destroying online subsystem :Context_28
