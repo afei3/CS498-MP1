@@ -2845,3 +2845,507 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.26-06.47.01:325][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.26-06.47.01:336][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
 [2021.09.26-06.47.01:365][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.09.26-06.48.05:202][994]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.09.26-06.48.05:237][994]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.09.26-06.48.05:241][994]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-06.48.05:241][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-06.48.11:377][301]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy
+[2021.09.26-06.48.13:636][399]LogSlate: Window 'BP_Enemy' being destroyed
+[2021.09.26-06.48.13:672][399]LogSlate: Window 'BP_Enemy' being destroyed
+[2021.09.26-06.48.13:676][399]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-06.48.13:676][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-06.48.30:421][337]LogActorFactory: Actor Factory created Cube
+[2021.09.26-06.48.34:507][581]LogStaticMesh: Building static mesh Cube...
+[2021.09.26-06.48.34:525][581]LogStaticMesh: Built static mesh [0.02s] /Game/InfiniteMatrix/Blueprints/Cube.Cube
+[2021.09.26-06.48.40:055][865]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Blueprints/Cube.Cube
+[2021.09.26-06.49.40:796][320]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.49.51:182][351]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.50.12:623][415]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.50.24:056][449]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.51.07:289][578]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.51.25:114][631]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.52.01:373][739]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.52.24:559][808]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.52.40:958][857]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.53.01:773][919]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.53.29:401][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.09.26-06.53.29:422][  0]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/TutorialMap_Auto4DE2FAC0A47CA7EE3236D08892CF438BF.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto4.umap'
+[2021.09.26-06.53.29:425][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.053
+[2021.09.26-06.53.29:425][  0]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2021.09.26-06.53.29:426][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Projectile] ([2] browsable assets)...
+[2021.09.26-06.53.29:450][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Projectile.BP_Projectile]
+[2021.09.26-06.53.29:450][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Projectile]
+[2021.09.26-06.53.29:479][  0]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Projectile_Auto4099C0E6C46B67A676D7A71A8994F4B16.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Projectile_Auto4.uasset'
+[2021.09.26-06.53.29:483][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/Cube] ([1] browsable assets)...
+[2021.09.26-06.53.29:506][  0]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/InfiniteMatrix/Blueprints/Cube.Cube]
+[2021.09.26-06.53.29:506][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/Cube]
+[2021.09.26-06.53.29:514][  0]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Cube_Auto4630043134818F9E771223AB7A968A1AF.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/Cube_Auto4.uasset'
+[2021.09.26-06.53.29:516][  0]LogFileHelpers: Auto-saving content packages took 0.090
+[2021.09.26-06.53.31:941][  9]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.53.56:118][ 81]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.54.19:944][152]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.54.37:827][702]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Cube5185CC2E4A30E541EA00FF9803BC6266.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/Cube.uasset'
+[2021.09.26-06.54.37:857][702]AssetCheck: New page: Asset Save: Cube
+[2021.09.26-06.54.37:857][702]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Blueprints/Cube.Cube
+[2021.09.26-06.54.40:335][808]LogSlate: Window 'Cube' being destroyed
+[2021.09.26-06.54.40:357][808]LogSlate: Window 'Cube' being destroyed
+[2021.09.26-06.54.40:363][808]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-06.54.40:364][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-06.55.03:702][ 71]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.55.15:144][105]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.55.35:260][165]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.55.52:305][251]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/InfiniteMatrix/Textures/textures/HealthPack_Albedo.HealthPack_Albedo
+[2021.09.26-06.55.52:322][251]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2021.09.26-06.56.03:218][827]LogSlate: Window 'HealthPack_Albedo' being destroyed
+[2021.09.26-06.56.03:251][827]LogSlate: Window 'HealthPack_Albedo' being destroyed
+[2021.09.26-06.56.11:803][338]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.09.26-06.56.11:817][338]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.09.26-06.56.15:550][566]LogContentBrowser: Attempting asset rename: NewMaterial -> Red
+[2021.09.26-06.56.15:552][566]LogContentBrowser: End creating deferred item NewMaterial
+[2021.09.26-06.56.15:979][589]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/InfiniteMatrix/Textures/textures/Red.Red
+[2021.09.26-06.56.15:982][589]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 858D8DD7752930C14927E1DBFFDBA69A22CB8FAB), compiling. 
+[2021.09.26-06.56.16:021][589]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.16:200][589]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: B5656E665AE8CE26508B92B5C72F487F08BB53A7), compiling. 
+[2021.09.26-06.56.16:202][589]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 55A83AD336CC12DB66968BED17559D2292F0FD95), compiling. 
+[2021.09.26-06.56.16:218][589]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-06.56.16:309][590]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.56.16:309][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.26-06.56.16:309][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.26-06.56.16:309][590]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.56.16:309][590]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.16:345][591]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.26-06.56.16:345][591]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.26-06.56.16:345][591]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.17:800][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.26-06.56.17:800][636]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.17:803][636]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.26-06.56.17:803][636]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2021.09.26-06.56.17:803][636]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.09.26-06.56.17:804][636]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.09.26-06.56.17:804][636]LogShaderCompilers: Display: ================================================
+[2021.09.26-06.56.18:140][654]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-06.56.18:140][654]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.18:142][654]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-06.56.26:124][100]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.26-06.56.26:124][100]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.26-06.56.26:124][100]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.26-06.56.26:124][100]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-06.56.33:606][527]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 31A8ED8169079A40DC33AD069A82DD2B4CFFAB8F), compiling. 
+[2021.09.26-06.56.33:609][527]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 5392442E3C11D8D524407AA8E5C490814A0B0226), compiling. 
+[2021.09.26-06.56.33:617][527]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.26-06.56.33:647][528]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.34:858][583]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.26-06.56.34:858][583]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.35:508][614]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-06.56.35:508][614]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.56.35:579][617]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-06.56.37:718][722]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: C4ABE2B8B1E2D672B0E6693F73359DB24E89C904), compiling. 
+[2021.09.26-06.56.37:722][722]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-06.56.37:802][724]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.26-06.56.37:802][724]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.26-06.56.37:802][724]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.26-06.56.37:802][724]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.26-06.56.44:360][107]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 024CEC0F3AAE55128FE512864B3F7DF11B6654D5), compiling. 
+[2021.09.26-06.56.44:364][107]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 54180D8FD6E53C73961FBE77B8F92744BA6FD7E3), compiling. 
+[2021.09.26-06.56.44:366][107]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 1153D9EA5CDC556EB705979B0C7E2449F2937266), compiling. 
+[2021.09.26-06.56.44:367][107]LogMaterial: Warning: [AssetLog] /Engine/Transient.Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-06.56.44:367][107]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-06.56.44:368][107]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F2C7D16D4BF9015876C78AC491A731A67BC3884), compiling. 
+[2021.09.26-06.56.44:375][107]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-06.56.50:981][465]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 1E33192A7F450C4747B7CF4355666815FF7D422A), compiling. 
+[2021.09.26-06.56.50:982][465]LogMaterial: Warning: [AssetLog] /Engine/Transient.Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-06.56.50:982][465]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.09.26-06.56.50:984][465]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E43FDC7021D04A5F86EE9B47B3D5F257B89A2F6E), compiling. 
+[2021.09.26-06.58.17:560][293]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 49EF4605830197AB9FBC5E4EB5FFA7F477F5DA15), compiling. 
+[2021.09.26-06.58.17:562][293]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 222D546B76A20DEC80B000FE6C7C365F9524A809), compiling. 
+[2021.09.26-06.58.17:565][293]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 2113B8AA4D626A018E51771F08E6FCBD5D8F17A2), compiling. 
+[2021.09.26-06.58.17:570][293]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-06.58.17:570][293]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-06.58.17:570][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-06.58.17:624][294]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.58.17:624][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.26-06.58.17:624][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.26-06.58.17:625][294]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.58.17:625][294]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.26-06.58.17:625][294]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.26-06.58.17:625][294]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.26-06.58.17:625][294]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.58.17:643][295]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.58.19:399][375]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.26-06.58.19:399][375]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.58.19:894][395]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-06.58.19:894][395]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.58.19:929][396]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.26-06.58.19:929][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-06.58.19:929][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-06.58.21:068][438]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.26-06.58.21:069][438]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.58.21:296][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-06.58.21:296][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.58.23:412][543]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.26-06.58.23:412][543]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.26-06.58.23:412][543]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.26-06.58.23:412][543]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.26-06.58.23:412][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-06.58.23:412][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-06.58.23:753][562]LogMaterialEditor: Saving and Compiling material Red
+[2021.09.26-06.58.24:230][562]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 20AECD95E3012AA8B6179AFCCE5705B3C5B464EE), compiling. 
+[2021.09.26-06.58.24:268][562]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: E7072336877261FF5D4913496E883B6B20698614), compiling. 
+[2021.09.26-06.58.24:381][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.09.26-06.58.24:390][562]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.58.24:707][562]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-06.58.24:707][562]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-06.58.24:781][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.09.26-06.58.24:855][562]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2021.09.26-06.58.24:858][562]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.09.26-06.58.24:858][562]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.09.26-06.58.24:858][562]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.09.26-06.58.24:858][562]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-06.58.24:917][562]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/RedCBAC71334D77A1CC9A4CE39D8AEF45E5.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Textures/textures/Red.uasset'
+[2021.09.26-06.58.24:936][562]AssetCheck: New page: Asset Save: Red
+[2021.09.26-06.58.24:936][562]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Textures/textures/Red.Red
+[2021.09.26-06.58.24:952][562]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.26-06.58.24:952][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-06.58.24:952][562]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-06.58.26:151][612]LogMaterialEditor: Saving and Compiling material Red
+[2021.09.26-06.58.26:198][612]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/RedE9E6E18F40B8290F7A40E0A2A9E0AA92.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Textures/textures/Red.uasset'
+[2021.09.26-06.58.26:235][612]AssetCheck: New page: Asset Save: Red
+[2021.09.26-06.58.26:235][612]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Textures/textures/Red.Red
+[2021.09.26-06.58.27:058][656]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.26-06.58.27:058][656]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.26-06.58.27:058][656]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.26-06.58.27:058][656]MaterialEditorStats: Texture samplers: 4/16
+[2021.09.26-06.58.27:058][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-06.58.27:058][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-06.58.36:801][154]LogSlate: Window 'Red' being destroyed
+[2021.09.26-06.58.36:838][154]LogSlate: Window 'Red' being destroyed
+[2021.09.26-06.58.36:848][154]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-06.58.36:848][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-06.58.47:438][236]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-06.59.15:908][321]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-07.00.09:229][480]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.26-07.00.22:334][677]AssetReimport: New page: Outstanding source content changes 9:00:22 PM
+[2021.09.26-07.00.25:423][846]AssetReimport: Error: Failed to reimport asset Red.
+[2021.09.26-07.00.41:326][550]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/InfiniteMatrix/Textures/textures/Red.Red
+[2021.09.26-07.00.41:328][550]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4AEC9A84E061C474B4B954DB112569175E55506D), compiling. 
+[2021.09.26-07.00.41:340][550]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.09.26-07.00.41:529][550]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B33C1EBE1524B5DBC88CE848E90B389855BE7DC), compiling. 
+[2021.09.26-07.00.41:532][550]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C4B32A3C52728A8D52B6CD01E47236DE8AC993BE), compiling. 
+[2021.09.26-07.00.41:534][550]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5EE0448308067BBFA1D66BEE3123A6FB6C74F17A), compiling. 
+[2021.09.26-07.00.41:549][550]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-07.00.41:549][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-07.00.41:549][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.26-07.00.41:619][551]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-07.00.41:894][555]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.26-07.00.41:895][555]LogShaderCompilers: Display: Total job queries 104, among them cache hits 36 (34.62%)
+[2021.09.26-07.00.41:895][555]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 27 distinct outputs (71.05%)
+[2021.09.26-07.00.41:895][555]LogShaderCompilers: Display: RAM used: 0.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2021.09.26-07.00.41:895][555]LogShaderCompilers: Display: ================================================
+[2021.09.26-07.00.42:870][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.26-07.00.42:870][596]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-07.00.43:276][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.26-07.00.43:276][612]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.26-07.00.43:308][613]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.26-07.00.43:308][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-07.00.43:308][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-07.00.45:740][723]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.26-07.00.45:740][723]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.26-07.00.45:740][723]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.26-07.00.45:740][723]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.26-07.00.45:740][723]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-07.00.45:740][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-07.01.20:713][732]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 307E796F2F14450F7871283D98AE0774DDD5E4BE), compiling. 
+[2021.09.26-07.01.37:107][695]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7AE3DE237FF8BB0C5C1092B4929C0CC4F1E313FC), compiling. 
+[2021.09.26-07.01.37:109][695]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D9B7EA4D631A9D5B1CED3DA83ACD373F36188A2), compiling. 
+[2021.09.26-07.01.37:113][695]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 027B8A51349A6B93EF656344DA5015C18FE7E62D), compiling. 
+[2021.09.26-07.01.37:118][695]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.26-07.01.37:118][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-07.01.37:118][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-07.01.37:162][696]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.26-07.01.37:162][696]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.26-07.01.37:163][696]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.26-07.01.37:163][696]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.26-07.01.37:163][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-07.01.37:163][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-07.01.49:012][356]LogMaterialEditor: Saving and Compiling material Red
+[2021.09.26-07.01.49:447][356]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1ABD2A24D2141D6EE951BC3D868DEB5ABE1192F8), compiling. 
+[2021.09.26-07.01.49:483][356]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 0659F8E8E3716C51B25313FC217CCF76A12670FF), compiling. 
+[2021.09.26-07.01.49:542][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.09.26-07.01.49:688][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.26-07.01.49:829][356]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/RedD36FF3324EBF8327BC3191AABF8C97F1.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Textures/textures/Red.uasset'
+[2021.09.26-07.01.49:843][356]AssetCheck: New page: Asset Save: Red
+[2021.09.26-07.01.49:843][356]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Textures/textures/Red.Red
+[2021.09.26-07.01.49:853][356]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.26-07.01.49:853][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.26-07.01.49:853][356]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.26-07.01.49:853][356]MaterialEditorStats: Texture samplers: 4/16
+[2021.09.26-07.01.49:853][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.26-07.01.49:853][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.26-07.01.50:044][359]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Red8720511B475CCDAE74228A8416D33CE2.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Textures/textures/Red.uasset'
+[2021.09.26-07.01.50:062][359]AssetCheck: New page: Asset Save: Red
+[2021.09.26-07.01.50:062][359]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Textures/textures/Red.Red
+[2021.09.26-07.01.53:368][551]LogSlate: Window 'Red' being destroyed
+[2021.09.26-07.01.53:391][551]LogSlate: Window 'Red' being destroyed
+[2021.09.26-07.01.53:404][551]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-07.01.53:404][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.02.02:622][ 27]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Blueprints/Cube.Cube
+[2021.09.26-07.02.10:975][408]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BFC05DEB0939849778C96398DF4B0576D8AE44EB), compiling. 
+[2021.09.26-07.02.10:977][408]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.26-07.02.10:977][408]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2021.09.26-07.02.53:576][577]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Engine/EngineMaterials/RandomMirrorDisc.RandomMirrorDisc
+[2021.09.26-07.03.13:044][330]LogStaticMesh: Building static mesh Cube...
+[2021.09.26-07.03.13:076][330]LogStaticMesh: Built static mesh [0.03s] /Game/InfiniteMatrix/Blueprints/Cube.Cube
+[2021.09.26-07.03.19:311][590]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/CubeB89FBDAF48AE60C9CAFBB08F3B9F2968.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Content/InfiniteMatrix/Blueprints/Cube.uasset'
+[2021.09.26-07.03.19:337][590]AssetCheck: New page: Asset Save: Cube
+[2021.09.26-07.03.19:337][590]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Blueprints/Cube.Cube
+[2021.09.26-07.03.22:371][729]LogSlate: Window 'RandomMirrorDisc' being destroyed
+[2021.09.26-07.03.22:380][729]LogSlate: Window 'RandomMirrorDisc' being destroyed
+[2021.09.26-07.03.22:388][729]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-07.03.22:388][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.03.54:320][481]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy
+[2021.09.26-07.04.02:895][916]BlueprintLog: New page: Compile BP_Enemy
+[2021.09.26-07.04.02:968][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.09.26-07.04.04:528][  0]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.26-07.04.04:545][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.26-07.04.04:546][  0]PIE: New page: PIE session: TutorialMap (Sep 25, 2021, 9:04:04 PM)
+[2021.09.26-07.04.04:546][  0]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.04.04:549][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003010s)
+[2021.09.26-07.04.04:550][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.26-07.04.04:550][  0]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2021.09.26-07.04.04:550][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004356s)
+[2021.09.26-07.04.04:578][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.09.26-07.04.04:578][  0]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.09.26-07.04.04:578][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.26-07.04.04:578][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.26-07.04.04:578][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.26-07.04.04:578][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.26-07.04.04:578][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.26-07.04.04:578][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.26-07.04.04:578][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.26-07.04.04:578][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.26-07.04.04:579][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.26-07.04.04:579][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.26-07.04.04:579][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.26-07.04.04:579][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.26-07.04.04:586][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.26-07.04.04:586][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.26-07.04.04:608][  0]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2021.09.26-07.04.04:608][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.26-07.04.04:608][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.26-07.04.04:608][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.26-07.04.04:608][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.26-07.04.04:608][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.26-07.04.04:608][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.26-07.04.04:610][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.26-07.04.04:610][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.26-07.04.04:610][  0]LogInit: FAudioDevice initialized.
+[2021.09.26-07.04.04:610][  0]LogAudio: Display: Audio Device (ID: 31) registered with world 'TutorialMap'.
+[2021.09.26-07.04.04:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.04.04:671][  0]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.26-07.04.04:672][  0]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-02.04.04
+[2021.09.26-07.04.04:672][  0]LogWorld: Bringing up level for play took: 0.000669
+[2021.09.26-07.04.04:673][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2021.09.26-07.04.04:687][  0]PIE: Server logged in
+[2021.09.26-07.04.04:689][  0]PIE: Play in editor total start time 0.153 seconds.
+[2021.09.26-07.04.16:396][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.04.16:396][636]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.04.16:397][636]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.26-07.04.16:430][636]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-07.04.16:431][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.04.16:439][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.26-07.04.16:446][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.04.16:478][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.26-07.04.16:478][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.04.16:481][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.04.16:491][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.09.26-07.04.16:521][637]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2021.09.26-07.04.24:996][ 56]BlueprintLog: New page: Compile BP_Enemy
+[2021.09.26-07.04.25:053][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.09.26-07.04.26:350][127]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.26-07.04.26:371][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.26-07.04.26:371][127]PIE: New page: PIE session: TutorialMap (Sep 25, 2021, 9:04:26 PM)
+[2021.09.26-07.04.26:372][127]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.04.26:375][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002792s)
+[2021.09.26-07.04.26:376][127]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.26-07.04.26:376][127]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2021.09.26-07.04.26:376][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004411s)
+[2021.09.26-07.04.26:416][127]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2021.09.26-07.04.26:416][127]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.09.26-07.04.26:416][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.26-07.04.26:416][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.26-07.04.26:416][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.26-07.04.26:416][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.26-07.04.26:417][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.26-07.04.26:417][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.26-07.04.26:417][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.26-07.04.26:417][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.26-07.04.26:418][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.26-07.04.26:418][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.26-07.04.26:418][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.26-07.04.26:418][127]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.26-07.04.26:428][127]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.26-07.04.26:429][127]LogAudioMixer: Display: 1: FrontRight
+[2021.09.26-07.04.26:452][127]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2021.09.26-07.04.26:453][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.26-07.04.26:453][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.26-07.04.26:453][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.26-07.04.26:453][127]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.26-07.04.26:453][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.26-07.04.26:453][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.26-07.04.26:456][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.26-07.04.26:456][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.26-07.04.26:456][127]LogInit: FAudioDevice initialized.
+[2021.09.26-07.04.26:456][127]LogAudio: Display: Audio Device (ID: 32) registered with world 'TutorialMap'.
+[2021.09.26-07.04.26:505][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.04.26:505][127]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.26-07.04.26:507][127]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-02.04.26
+[2021.09.26-07.04.26:507][127]LogWorld: Bringing up level for play took: 0.000763
+[2021.09.26-07.04.26:508][127]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.09.26-07.04.26:521][127]PIE: Server logged in
+[2021.09.26-07.04.26:524][127]PIE: Play in editor total start time 0.168 seconds.
+[2021.09.26-07.04.28:344][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.04.28:344][215]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.04.28:344][215]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.26-07.04.28:349][215]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-07.04.28:349][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.04.28:360][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.26-07.04.28:366][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.04.28:391][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.26-07.04.28:391][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.04.28:392][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.04.28:400][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.09.26-07.04.28:425][216]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.09.26-07.04.29:045][253]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.26-07.04.29:061][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.26-07.04.29:061][253]PIE: New page: PIE session: TutorialMap (Sep 25, 2021, 9:04:29 PM)
+[2021.09.26-07.04.29:062][253]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.04.29:066][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003515s)
+[2021.09.26-07.04.29:067][253]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.26-07.04.29:067][253]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2021.09.26-07.04.29:067][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004877s)
+[2021.09.26-07.04.29:093][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.09.26-07.04.29:094][253]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.09.26-07.04.29:094][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.26-07.04.29:094][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.26-07.04.29:094][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.26-07.04.29:094][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.26-07.04.29:094][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.26-07.04.29:094][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.26-07.04.29:094][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.26-07.04.29:094][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.26-07.04.29:095][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.26-07.04.29:095][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.26-07.04.29:095][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.26-07.04.29:095][253]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.26-07.04.29:101][253]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.26-07.04.29:101][253]LogAudioMixer: Display: 1: FrontRight
+[2021.09.26-07.04.29:121][253]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2021.09.26-07.04.29:121][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.26-07.04.29:121][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.26-07.04.29:121][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.26-07.04.29:121][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.26-07.04.29:121][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.26-07.04.29:121][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.26-07.04.29:123][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.26-07.04.29:123][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.26-07.04.29:123][253]LogInit: FAudioDevice initialized.
+[2021.09.26-07.04.29:123][253]LogAudio: Display: Audio Device (ID: 33) registered with world 'TutorialMap'.
+[2021.09.26-07.04.29:171][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.04.29:171][253]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.26-07.04.29:172][253]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-02.04.29
+[2021.09.26-07.04.29:173][253]LogWorld: Bringing up level for play took: 0.000655
+[2021.09.26-07.04.29:173][253]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.09.26-07.04.29:185][253]PIE: Server logged in
+[2021.09.26-07.04.29:187][253]PIE: Play in editor total start time 0.135 seconds.
+[2021.09.26-07.04.52:711][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.04.52:711][542]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.04.52:712][542]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.26-07.04.52:738][542]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-07.04.52:739][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.04.52:753][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.26-07.04.52:761][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.04.52:801][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.04.52:803][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.04.52:818][542]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.09.26-07.04.52:852][543]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.09.26-07.05.17:853][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.09.26-07.05.17:855][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.028
+[2021.09.26-07.05.17:855][ 14]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2021.09.26-07.05.17:877][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy]
+[2021.09.26-07.05.17:877][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Enemy]
+[2021.09.26-07.05.17:912][ 14]LogSavePackage: Moving '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/BP_Enemy_Auto50133DE144F12D976F2CB57AC9F2D2719.tmp' to '../../../../../../Users/ayfei/cs498/CS498-MP1/InfiniteMatrixStarterProject/InfiniteMatrixStarter 4.27/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Enemy_Auto5.uasset'
+[2021.09.26-07.05.17:913][ 14]LogFileHelpers: Auto-saving content packages took 0.059
+[2021.09.26-07.07.15:761][ 21]BlueprintLog: New page: Compile BP_Enemy
+[2021.09.26-07.07.15:824][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.09.26-07.07.16:778][ 76]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.26-07.07.16:795][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.26-07.07.16:795][ 76]PIE: New page: PIE session: TutorialMap (Sep 25, 2021, 9:07:16 PM)
+[2021.09.26-07.07.16:796][ 76]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.07.16:799][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002940s)
+[2021.09.26-07.07.16:800][ 76]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.26-07.07.16:800][ 76]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2021.09.26-07.07.16:800][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004565s)
+[2021.09.26-07.07.16:828][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.09.26-07.07.16:828][ 76]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.09.26-07.07.16:829][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.26-07.07.16:829][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.26-07.07.16:829][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.26-07.07.16:829][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.26-07.07.16:829][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.26-07.07.16:829][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.26-07.07.16:829][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.26-07.07.16:829][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.26-07.07.16:829][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.26-07.07.16:830][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.26-07.07.16:830][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.26-07.07.16:830][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.26-07.07.16:836][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.26-07.07.16:836][ 76]LogAudioMixer: Display: 1: FrontRight
+[2021.09.26-07.07.16:858][ 76]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2021.09.26-07.07.16:859][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.26-07.07.16:859][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.26-07.07.16:859][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.26-07.07.16:859][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.26-07.07.16:859][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.26-07.07.16:859][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.26-07.07.16:861][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.26-07.07.16:861][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.26-07.07.16:861][ 76]LogInit: FAudioDevice initialized.
+[2021.09.26-07.07.16:861][ 76]LogAudio: Display: Audio Device (ID: 34) registered with world 'TutorialMap'.
+[2021.09.26-07.07.16:920][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.07.16:920][ 76]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.26-07.07.16:922][ 76]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.26-02.07.16
+[2021.09.26-07.07.16:922][ 76]LogWorld: Bringing up level for play took: 0.000652
+[2021.09.26-07.07.16:922][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2021.09.26-07.07.16:935][ 76]PIE: Server logged in
+[2021.09.26-07.07.16:937][ 76]PIE: Play in editor total start time 0.151 seconds.
+[2021.09.26-07.07.22:958][401]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.26-07.07.22:958][401]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.26-07.07.25:441][542]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.26-07.07.25:441][542]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.26-07.07.25:593][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.26-07.07.25:593][548]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.26-07.07.25:593][548]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.26-07.07.25:611][548]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.26-07.07.25:612][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.07.25:627][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.26-07.07.25:632][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.26-07.07.25:658][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.26-07.07.25:659][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.07.25:660][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.26-07.07.25:669][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.09.26-07.07.25:697][549]LogPlayLevel: Display: Destroying online subsystem :Context_64
